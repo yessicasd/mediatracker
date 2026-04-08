@@ -1,6 +1,6 @@
 ---
 banner_image: tmdb_1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg
-category: "[[Películas]]"
+category: "[[Libros]]"
 date:
 genres:
   - Ciencia ficción

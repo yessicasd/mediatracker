@@ -1,20 +1,20 @@
 ---
 banner_image: tmdb_9hK3rxEwCAX4DrLvOOBggJzkjHk.jpg
-category: '[[Películas]]'
+category: "[[Películas]]"
 date: 2025-11-15
 genres:
-- Animación
-- Acción
+  - Animación
+  - Acción
 image: tmdb_c0gwM59dS7ZvX56SIP1FU5LHB9B.jpg
-overview: ''
-rating: '6'
+overview: ""
+rating:
 release_date: 2025-11-14
 rewatches: []
-status: Acabado
+status: Sin Empezar
 tags:
-- anime
-- cine
-title: 'JUJUTSU KAISEN: Ejecución'
+  - anime
+  - cine
+title: "JUJUTSU KAISEN: Ejecución"
 tmdb_id: 1539104
 type: movie
 ---

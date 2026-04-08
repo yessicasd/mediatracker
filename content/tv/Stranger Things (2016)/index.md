@@ -21,7 +21,4 @@ title: Stranger Things
 tmdb_id: 66732
 type: tv
 ---
-
-Me he visto la primera temporada, algún episodio suelto de las del medio y la última temporada. Sí, un poco maleducado saltarme prácticamente toda la serie pero es lo que hay, por aquel entonces yo no era mucho de ver series y mi pareja bastante impaciente para verse los episodios.
-
-Es una buena serie, una historia original con personajes bastante carismáticos. Entiendo la fiebre de la gente con esta serie.
+Me falta por ver la última temporada pero ya me da palo.

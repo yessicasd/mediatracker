@@ -19,6 +19,12 @@ enableEmoji = true
     path = "github.com/hugo-sid/hugo-blog-awesome"
 
 [menu]
+   [[menu.main]]
+    pageRef="books"
+    name = 'Libros'
+    url = '/Libros/'
+    weight = 20
+    
   [[menu.main]]
     pageRef="movies"
     name = 'Películas'

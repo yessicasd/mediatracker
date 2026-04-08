@@ -1,0 +1,274 @@
+{
+  "main": {
+    "id": "de5a1c3fd06832c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "25a5e8d654cc51d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f69ffdd083bbf56c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "movies/Ant-Man (2015)/tmdb_1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "tmdb_1K3JmSNUN8OpjYsCjc0Hy0SYxAb"
+            }
+          },
+          {
+            "id": "bbb2b2bff2a6a773",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "movies/Ant-Man (2015)/tmdb_1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "tmdb_1K3JmSNUN8OpjYsCjc0Hy0SYxAb"
+            }
+          },
+          {
+            "id": "ae66f51a5879cb1e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "movies/Ant-Man (2015)/tmdb_1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "tmdb_1K3JmSNUN8OpjYsCjc0Hy0SYxAb"
+            }
+          },
+          {
+            "id": "f79bd57e32c190fb",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "movies/Ant-Man (2015)/tmdb_1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "tmdb_1K3JmSNUN8OpjYsCjc0Hy0SYxAb"
+            }
+          },
+          {
+            "id": "13255791bc95b72d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "libros/Atomic Habits/tmdb_1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "tmdb_1K3JmSNUN8OpjYsCjc0Hy0SYxAb"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "642908551f9cf6e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ff5f1ed4e618247",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3b5e0f1a462eae0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "52891a16123e3f8f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "From",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "ee99a37f90a24995",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 420.50909423828125
+  },
+  "right": {
+    "id": "36abeb2f94063980",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b9980145c3537b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "770afae4beb63c4b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "libros/Atomic Habits/tmdb_1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de tmdb_1K3JmSNUN8OpjYsCjc0Hy0SYxAb"
+            }
+          },
+          {
+            "id": "cafec2a1cc122b74",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "libros/Atomic Habits/tmdb_1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de tmdb_1K3JmSNUN8OpjYsCjc0Hy0SYxAb"
+            }
+          },
+          {
+            "id": "b746d92b127a72f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "b720d7155eb9602d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "773daa91bc9257ae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "libros/Atomic Habits/tmdb_1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de tmdb_1K3JmSNUN8OpjYsCjc0Hy0SYxAb"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "f3b5e0f1a462eae0",
+  "lastOpenFiles": [
+    "libros/Atomic Habits/tmdb_1OolIrmn0juUN9Qe6NGdqxlD9d6.jpg",
+    "movies/Ant-Man (2015)/tmdb_1OolIrmn0juUN9Qe6NGdqxlD9d6.jpg",
+    "libros/Atomic Habits/tmdb_1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg",
+    "movies/Ant-Man (2015)/tmdb_1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg",
+    "libros/Atomic Habits/index.md",
+    "libros/Atomic Habits 1/index.md",
+    "libros/Atomic Habits 1",
+    "tmdb_1OolIrmn0juUN9Qe6NGdqxlD9d6.jpg",
+    "tmdb_1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg",
+    "movies/Look Back (2024)/index.md",
+    "seasons/Jujutsu Kaisen (2020) - Temporada 1/index.md",
+    "collage.md",
+    "seasons/FROM (2022) - Temporada 1/index.md",
+    "index.md",
+    "about.md",
+    "movies/Ant-Man (2015)/index.md",
+    "libros/Atomic Habits/i.md",
+    "libros/Atomic Habits",
+    "tv/El juego del calamar (2021)/index.md",
+    "tv/Tu amigo y vecino Spider-Man (2025)/index.md",
+    "Sin título.base",
+    "Sin título 1.base",
+    "2017-01-01.md",
+    "2023-12-13.md",
+    "2021-01-20.md",
+    "tv/Stranger Things (2016)/index.md",
+    "tv/Solo Leveling (2024)/index.md",
+    "tv/Lupin (2021)/index.md",
+    "tv/Kimetsu no Yaiba Guardianes de la Noche (2019)/index.md",
+    "tv/Frieren Tras finalizar el viaje (2023)/index.md",
+    "tv/El problema de los 3 cuerpos (2024)/index.md",
+    "tv/Death Note (2006)/index.md",
+    "tv/DAN DA DAN (2024)/index.md",
+    "tv/Cómo cazar a un monstruo (2024)/index.md",
+    "movies/Spider-Man un nuevo universo (2018)/index.md",
+    "libros",
+    "games/Ape Out/steamgriddb_7ce7fe98a64dd1ef509fedb677fcea5a.png",
+    "games/Ape Out/steam_447150.jpg"
+  ]
+}

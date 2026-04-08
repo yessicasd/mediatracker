@@ -1,20 +1,19 @@
 ---
 banner_image: tmdb_kkT2B2gmynoh9kZMo1gromLNeqy.jpg
-category: '[[Series]]'
+category: "[[Series]]"
 date: 2025-03-02
 genres:
-- Animación
-- Action & Adventure
-- Sci-Fi & Fantasy
-- Comedia
+  - Animación
+  - Action & Adventure
+  - Sci-Fi & Fantasy
+  - Comedia
 image: tmdb_aSe4aB8tiPQMoQt9B4SKFgIymwL.jpg
-overview: Peter Parker está destinado a ser un héroe, pero antes tendrá que recorrer
-  un insólito camino.
-rating: '5'
+overview: Peter Parker está destinado a ser un héroe, pero antes tendrá que recorrer un insólito camino.
+rating: "5"
 release_date: 2025-01-29
 rewatches: []
 seasons: []
-status: Acabado
+status: Sin Empezar
 tags: []
 title: Tu amigo y vecino Spider-Man
 tmdb_id: 138503
