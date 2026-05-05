@@ -64,12 +64,12 @@ enableEmoji = true
 [params.author]
   avatar = "avatar.webp"
   intro = "Media Tracker"
-  name = "christt105"
+  name = "YessicaSd"
   description = "Este es mi rincón personal donde guardo un registro de todas las películas, series y videojuegos que consumo."
 
 [[params.socialIcons]]
 name = "github"
-url = "https://github.com/christt105"
+url = "https://github.com/YessicaSD"
 
 [[params.socialIcons]]
 name = "rss"
