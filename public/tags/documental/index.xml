@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documental on Media Tracker</title>
+    <link>http://localhost:1313/MediaTracker/tags/documental/</link>
+    <description>Recent content in Documental on Media Tracker</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language><atom:link href="http://localhost:1313/MediaTracker/tags/documental/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hideo Kojima: Connecting Worlds</title>
+      <link>http://localhost:1313/MediaTracker/movies/hideo-kojima-connecting-worlds-2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/MediaTracker/movies/hideo-kojima-connecting-worlds-2023/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
