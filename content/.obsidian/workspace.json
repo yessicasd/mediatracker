@@ -59,12 +59,14 @@
             "id": "13255791bc95b72d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "libros/Atomic Habits/tmdb_1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg"
+                "file": "libros/Atomic Habits/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "tmdb_1K3JmSNUN8OpjYsCjc0Hy0SYxAb"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
@@ -141,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "libros/Atomic Habits/tmdb_1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg",
+                "file": "libros/Atomic Habits/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +153,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de tmdb_1K3JmSNUN8OpjYsCjc0Hy0SYxAb"
+              "title": "Enlaces entrantes de index"
             }
           },
           {
@@ -160,12 +162,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "libros/Atomic Habits/tmdb_1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg",
+                "file": "libros/Atomic Habits/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de tmdb_1K3JmSNUN8OpjYsCjc0Hy0SYxAb"
+              "title": "Enlaces salientes de index"
             }
           },
           {
@@ -203,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "libros/Atomic Habits/tmdb_1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg",
+                "file": "libros/Atomic Habits/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de tmdb_1K3JmSNUN8OpjYsCjc0Hy0SYxAb"
+              "title": "Esquema de index"
             }
           }
         ]
@@ -230,22 +232,70 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "f3b5e0f1a462eae0",
+  "floating": {
+    "id": "55e46bc5c3ea6e03",
+    "type": "floating",
+    "children": [
+      {
+        "id": "df94e34c0215c0dd",
+        "type": "window",
+        "children": [
+          {
+            "id": "397b78aa087b3a4e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a5b7a6dae7c22784",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Nueva pestaña"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 325,
+        "y": 47,
+        "width": 1026,
+        "height": 801,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "13255791bc95b72d",
   "lastOpenFiles": [
-    "libros/Atomic Habits/tmdb_1OolIrmn0juUN9Qe6NGdqxlD9d6.jpg",
-    "movies/Ant-Man (2015)/tmdb_1OolIrmn0juUN9Qe6NGdqxlD9d6.jpg",
-    "libros/Atomic Habits/tmdb_1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg",
-    "movies/Ant-Man (2015)/tmdb_1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg",
+    "libros/Hobbit/index.md",
+    "libros/Hobbit/Hobbit_banner.jpg",
+    "libros/Hobbit/Unconfirmed 616981.crdownload",
+    "libros/Hobbit/HobbitCover.jfif",
+    "libros/Hobbit/Unconfirmed 739448.crdownload",
+    "libros/Hobbit/atomichabit_cover.jpg",
+    "libros/Hobbit/HobbitCover.jpg",
+    "libros/Hobbit/Unconfirmed 760745.crdownload",
     "libros/Atomic Habits/index.md",
+    "libros/Hobbit/atomic-habits_gallery_hi-res_01.jpg",
+    "index 1.md",
+    "libros/Atomic Habits/atomic-habits_gallery_hi-res_01.jpg",
+    "index.md",
+    "atomichabit_cover.jpg",
+    "atomic-habits_gallery_hi-res_01.jpg",
+    "libros/Hobbit",
+    "libros/Atomic Habits/Unconfirmed 290895.crdownload",
+    "libros/Atomic Habits/atomichabit_cover.jpg",
+    "libros/Atomic Habits/tmdb_1OolIrmn0juUN9Qe6NGdqxlD9d6.jpg",
+    "libros/Atomic Habits/tmdb_1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg",
+    "libros/Atomic Habits/Unconfirmed 605632.crdownload",
     "libros/Atomic Habits 1/index.md",
     "libros/Atomic Habits 1",
-    "tmdb_1OolIrmn0juUN9Qe6NGdqxlD9d6.jpg",
-    "tmdb_1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg",
     "movies/Look Back (2024)/index.md",
     "seasons/Jujutsu Kaisen (2020) - Temporada 1/index.md",
     "collage.md",
     "seasons/FROM (2022) - Temporada 1/index.md",
-    "index.md",
     "about.md",
     "movies/Ant-Man (2015)/index.md",
     "libros/Atomic Habits/i.md",
@@ -253,7 +303,6 @@
     "tv/El juego del calamar (2021)/index.md",
     "tv/Tu amigo y vecino Spider-Man (2025)/index.md",
     "Sin título.base",
-    "Sin título 1.base",
     "2017-01-01.md",
     "2023-12-13.md",
     "2021-01-20.md",
@@ -264,11 +313,6 @@
     "tv/Frieren Tras finalizar el viaje (2023)/index.md",
     "tv/El problema de los 3 cuerpos (2024)/index.md",
     "tv/Death Note (2006)/index.md",
-    "tv/DAN DA DAN (2024)/index.md",
-    "tv/Cómo cazar a un monstruo (2024)/index.md",
-    "movies/Spider-Man un nuevo universo (2018)/index.md",
-    "libros",
-    "games/Ape Out/steamgriddb_7ce7fe98a64dd1ef509fedb677fcea5a.png",
-    "games/Ape Out/steam_447150.jpg"
+    "tv/DAN DA DAN (2024)/index.md"
   ]
 }
