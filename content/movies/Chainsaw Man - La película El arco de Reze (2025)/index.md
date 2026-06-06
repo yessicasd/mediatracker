@@ -13,7 +13,6 @@ rating: "5"
 related:
 release_date: 2025-09-19
 rewatches:
-  - 2026-01-21
 status: Acabado
 tags:
   - anime

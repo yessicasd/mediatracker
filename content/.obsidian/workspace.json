@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "libros/Atomic Habits/index.md",
+                "file": "movies/Chainsaw Man - La película El arco de Reze (2025)/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -232,87 +232,54 @@
       "bases:Crear nueva base": false
     }
   },
-  "floating": {
-    "id": "55e46bc5c3ea6e03",
-    "type": "floating",
-    "children": [
-      {
-        "id": "df94e34c0215c0dd",
-        "type": "window",
-        "children": [
-          {
-            "id": "397b78aa087b3a4e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a5b7a6dae7c22784",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "Nueva pestaña"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 325,
-        "y": 47,
-        "width": 1026,
-        "height": 801,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "13255791bc95b72d",
   "lastOpenFiles": [
-    "libros/Hobbit/index.md",
-    "libros/Hobbit/Hobbit_banner.jpg",
-    "libros/Hobbit/Unconfirmed 616981.crdownload",
-    "libros/Hobbit/HobbitCover.jfif",
-    "libros/Hobbit/Unconfirmed 739448.crdownload",
-    "libros/Hobbit/atomichabit_cover.jpg",
-    "libros/Hobbit/HobbitCover.jpg",
-    "libros/Hobbit/Unconfirmed 760745.crdownload",
-    "libros/Atomic Habits/index.md",
-    "libros/Hobbit/atomic-habits_gallery_hi-res_01.jpg",
-    "index 1.md",
-    "libros/Atomic Habits/atomic-habits_gallery_hi-res_01.jpg",
-    "index.md",
-    "atomichabit_cover.jpg",
+    "movies/Weapons (2025)/index.md",
+    "movies/Chainsaw Man - La película El arco de Reze (2025)/index.md",
+    "about.md",
+    "collage.md",
+    "tmdb_1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg",
+    "Sin título.canvas",
     "atomic-habits_gallery_hi-res_01.jpg",
-    "libros/Hobbit",
-    "libros/Atomic Habits/Unconfirmed 290895.crdownload",
-    "libros/Atomic Habits/atomichabit_cover.jpg",
-    "libros/Atomic Habits/tmdb_1OolIrmn0juUN9Qe6NGdqxlD9d6.jpg",
-    "libros/Atomic Habits/tmdb_1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg",
-    "libros/Atomic Habits/Unconfirmed 605632.crdownload",
+    "tv/Cómo cazar a un monstruo (2024)/index.md",
+    "2026-05-03.md",
+    "movies/Jujutsu Kaisen 0 (2021)/index.md",
+    "Jujutsu Kaisen (2020).md",
+    "libros/La brújula dorada/index.md",
+    "libros/Hobbit/index.md",
+    "libros/Hobbit/HobbitCover.jpg",
+    "libros/La brújula dorada/Banner.jpg",
+    "libros/La brújula dorada/Unconfirmed 761955.crdownload",
+    "libros/La brújula dorada/Portada.jpg",
+    "libros/La brújula dorada/Unconfirmed 582091.crdownload",
+    "assets/sass/_custom.scss",
+    "assets/sass/year-nav-styles.scss",
+    "assets/icons/web-app-manifest-192x192.png",
+    "assets/icons/site.webmanifest",
+    "assets/icons/favicon.svg",
+    "assets/icons/web-app-manifest-512x512.png",
+    "assets/icons/favicon.ico",
+    "assets/icons/favicon-96x96.png",
+    "assets/icons/apple-touch-icon.png",
+    "assets/sass",
+    "assets/icons",
+    "assets",
+    "libros/La brújula dorada",
+    "libros/Atomic Habits/index.md",
+    "index 1.md",
+    "index.md",
     "libros/Atomic Habits 1/index.md",
-    "libros/Atomic Habits 1",
     "movies/Look Back (2024)/index.md",
     "seasons/Jujutsu Kaisen (2020) - Temporada 1/index.md",
-    "collage.md",
     "seasons/FROM (2022) - Temporada 1/index.md",
-    "about.md",
     "movies/Ant-Man (2015)/index.md",
     "libros/Atomic Habits/i.md",
-    "libros/Atomic Habits",
     "tv/El juego del calamar (2021)/index.md",
     "tv/Tu amigo y vecino Spider-Man (2025)/index.md",
-    "Sin título.base",
     "2017-01-01.md",
     "2023-12-13.md",
     "2021-01-20.md",
     "tv/Stranger Things (2016)/index.md",
-    "tv/Solo Leveling (2024)/index.md",
-    "tv/Lupin (2021)/index.md",
-    "tv/Kimetsu no Yaiba Guardianes de la Noche (2019)/index.md",
-    "tv/Frieren Tras finalizar el viaje (2023)/index.md",
-    "tv/El problema de los 3 cuerpos (2024)/index.md",
-    "tv/Death Note (2006)/index.md",
-    "tv/DAN DA DAN (2024)/index.md"
+    "tv/Solo Leveling (2024)/index.md"
   ]
 }
